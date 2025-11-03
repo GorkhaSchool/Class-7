@@ -1,4 +1,3 @@
-# Computer Virus
 ### What is a Computer Virus?
 
 A computer virus is a type of malicious software (malware) that, when executed, replicates itself by modifying other computer programs, data files, or the boot sector of the hard drive, inserting its own code. It requires a host program to run and spread, similar to a biological virus.
